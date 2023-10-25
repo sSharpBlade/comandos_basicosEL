@@ -1,6 +1,13 @@
 
 ##############################
 ### FORMULARIO MATRICULA #####
-UNIVERSIDAD:
-ESTUDIANTE:
-MATERIAS:
+UNIVERSIDAD: UTA
+FACULTAD: FISEI
+CARRERA: SW
+MATERIAS: 
+	Manejo y configuracion de software
+	Base de datos
+	Computacion Visual
+	Metodos numericos
+	Redes
+NUMERO DE CREDITOS: 14
