@@ -2,5 +2,7 @@
 #### ORDEN DE PAGO ####
 #######################
 NOMBRE: Edwin Lopez
+SEMESTRE: 4TO SW
 FECHA: 25/10/2023
 VALOR: 00.00
+DISCAPACIDAD: NO
