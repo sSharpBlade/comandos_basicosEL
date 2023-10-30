@@ -5,3 +5,8 @@ Nombre: Edwin
 Apellido: Lopez
 Cedula: 1850420991
 Correo: elopez0991@uta.edu.ecFecha nacimiento: 07/01/2004
+
+Nombre: Ismael
+Apellido: Yepez
+Cedula: 1850420991
+Correo: elopez0991@uta.edu.ecFecha nacimiento: 07/01/2004
