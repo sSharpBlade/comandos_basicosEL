@@ -11,3 +11,14 @@ MATERIAS:
 	Metodos numericos
 	Redes
 NUMERO DE CREDITOS: 14
+
+UNIVERSIDAD: UTA
+FACULTAD: FISEI
+CARRERA: SW
+MATERIAS: 
+	Manejo y configuracion de software
+	Base de datos
+	Computacion Visual
+	Metodos numericos
+	Redes
+NUMERO DE CREDITOS: 5
